@@ -8,3 +8,14 @@
 > 6. Feedback Analysis
 > 7. Performance Tracking
 > 8. Actionable Insights
+
+### Visualization
+[Number Of Apps Per Category]()
+[Number Of Install For Each Category]()
+[App Distribution By Rating]()
+
+
+
+###conclusion 
+This analysis provided insights into the Play Store app reviews dataset. We gained an understanding of the app categories, types, and size distributions. The scatter plots helped identify any relationships between app rating, size, and type. The correlation analysis revealed any significant correlations between different numeric variables.
+These findings can be valuable for app developers, marketers, and decision-makers in understanding user preferences, optimizing app size, and making data-driven decisions in app development and marketing strategies.
