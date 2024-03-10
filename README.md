@@ -9,7 +9,7 @@
 > 7. Performance Tracking
 > 8. Actionable Insights
 
-### Visualization
+>> ### Visualization
 > Number Of Apps Per Category
 ![Number Of Apps Per Category](https://github.com/deepakkush02/Play-Store-Data-Analysis/blob/main/Number%20Of%20Apps%20Per%20Category.png)
 > Number Of Install For Each Category
