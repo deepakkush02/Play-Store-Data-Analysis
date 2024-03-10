@@ -10,9 +10,11 @@
 > 8. Actionable Insights
 
 ### Visualization
-[Number Of Apps Per Category](https://github.com/deepakkush02/Play-Store-Data-Analysis/blob/main/Number%20Of%20Apps%20Per%20Category.png)
-[Number Of Install For Each Category]()
-[App Distribution By Rating]()
+![Number Of Apps Per Category](https://github.com/deepakkush02/Play-Store-Data-Analysis/blob/main/Number%20Of%20Apps%20Per%20Category.png)
+
+![Number Of Install For Each Category](https://github.com/deepakkush02/Play-Store-Data-Analysis/blob/main/Number%20Of%20Install%20For%20Each%20Category.png)
+
+![App Distribution By Rating](https://github.com/deepakkush02/Play-Store-Data-Analysis/blob/main/App%20Distribution%20By%20Rating.png)
 
 
 
